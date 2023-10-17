@@ -28,12 +28,12 @@ body{
 }
 .container h1{
     font-weight: 500;
-    font-size: 45px;
+    font-size: 40px;
 }
 
 .container h1 span{
     color: #019f55;
-    border-bottom: 4px solid #019f55;
+/*     //border-bottom: 4px solid #019f55; */
     padding-bottom: 8px;
 }
 .display img{
